@@ -10,3 +10,6 @@ docker compose down
 ```
 
 ### 🔧 Core libraries
+
+### References
+- [Airflow in Docker Compose - Additional Pip Packages](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
