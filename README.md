@@ -10,6 +10,8 @@ docker compose down
 ```
 
 ### 🔧 Core libraries
+- [Airflow](https://airflow.apache.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Requests](https://docs.python-requests.org/en/latest/)
+- [SQLAlchemy](https://docs.sqlalchemy.org/en/14/)
 
-### References
-- [Airflow in Docker Compose - Additional Pip Packages](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
