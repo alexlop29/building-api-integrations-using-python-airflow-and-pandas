@@ -10,5 +10,3 @@ docker compose down
 ```
 
 ### 🔧 Core libraries
-- [Python 3.10](https://www.python.org/downloads/)
-- [Pipenv](https://pipenv.pypa.io/en/latest/)
